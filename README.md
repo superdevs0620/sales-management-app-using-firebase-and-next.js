@@ -8,14 +8,6 @@
 
 <img width="1280" alt="Sales Management Dashboard" src="https://github.com/dha-stix/instock-app/assets/67129211/4f963dcd-f81d-4c88-8c9d-3ac05b132ffa">
 
-
-## Live Demo
-- [View Live Version](https://instock-two.vercel.app/)
-- [YouTube Demo](https://www.youtube.com/watch?v=Vq1xlL1g9eY)
-
-## How-to Guide
-[Read article on DEV](https://dev.to/arshadayvid/how-i-built-a-sales-management-app-with-nextjs-13-typescript-and-firebase-16cb)
-
 ## Installation
 - Clone the project repository. Don't forget to star the repo 😉
 - Run `npm install` to install its dependencies.
